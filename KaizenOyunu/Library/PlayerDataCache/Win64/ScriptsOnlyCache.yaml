@@ -509,7 +509,7 @@ ScriptsOnlyBuild:
     className: BaseInput
   - hash:
       serializedVersion: 2
-      Hash: a53c99c0aeb870a9424f9ccc34f6e768
+      Hash: 95c2a8977fb4f2f87a61b301fee23627
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: StartMenu
@@ -756,4 +756,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: "C:/Users/simla/OneDrive/Masa\xFCst\xFC/KaizenOyunu2/KaizenOyunu.exe"
+  playerPath: E:/KaizenOyunu/KaizenOyunu.exe

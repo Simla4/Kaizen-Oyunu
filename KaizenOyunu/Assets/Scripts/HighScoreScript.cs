@@ -39,7 +39,7 @@ public class HighScoreScript : MonoBehaviour
         entryTime = txt_time.text;
         entryDate = System.DateTime.UtcNow.ToLocalTime().ToString("dd-MM-yyyy");
         entryTimer = float.Parse(txt_timer.text);
-        fileAdress = "C:\\Users\\simla\\OneDrive\\kaizen-oyunu-data.json";
+        fileAdress = "C:\\data\\kaizen-oyunu-data.json";
         //    \\\fileserver\\PAYLASIM\\BT\\
         AddHighscoreEntry(entryDate, entryTimer, entryTime, entryScore, entryID, entryName);
 

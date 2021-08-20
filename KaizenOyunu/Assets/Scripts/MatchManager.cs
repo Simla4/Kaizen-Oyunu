@@ -34,7 +34,7 @@ public class MatchManager : MonoBehaviour
             _isMatchTrue = true;
             score += 100;
             counter++;
-            if(counter == 2)
+            if(counter == 24)
             {
                 mainObject.SetActive(false);
                 scoreObject.SetActive(true);
