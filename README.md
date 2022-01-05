@@ -1,2 +1,2 @@
 # Kaizen-Oyunu
-Staj yaptığım yerde kaizen sistemi denen bir sitem uygulanıyor. İşçilere bu formu öğretebilmek için beyza tahtada mıknatıslarla bir eşleştirme oyunu oynatılıyordu. Benden bu oyunu bilgisayar ortamında yapmam istendi. Bunun üzerine bu oyunu yaptım.
+At the place where I do my internship, a system called the kaizen system is applied. In order to teach this form to the employees, a matching game was played on the white board with magnets. I was asked to make this game in a computer environment. So I made this game.
